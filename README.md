@@ -4,6 +4,15 @@ This simple solder fume extractor just needs a PC fan and an solder fume filter.
 
 <img src="images/humo.jpg" width=500px alt="Humo is happy">
 
+## Lasered Parts
+The box for the lasered parts has been created with an kerf of 0,2mm. The different colours stand for:
+
+- Red: Cut part
+- Black: Scan part
+- Green: Grave part
+
+Please adjust your laser cutter.
+
 ## Neded Parts
 |          Description          | Quantity | Price     |                    Description / Example                    |
 |:-----------------------------:|:--------:|-----------|:-----------------------------------------------------------:|
