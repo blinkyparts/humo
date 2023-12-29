@@ -4,7 +4,7 @@ This simple solder fume extractor just needs a PC fan and an solder fume filter.
 
 <img src="images/humo.jpg" width=500px alt="Humo is happy">
 
-<img src="images/humo_light.jpg" width=500px alt="Humo has also light">
+<img src="images/detail_light.jpg" width=500px alt="Humo has also light">
 
 <img src="images/detail_usbc.jpg" width=500px alt="Humo loves USBC PD">
 
