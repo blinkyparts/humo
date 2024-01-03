@@ -29,9 +29,9 @@
      showgrid="false"
      inkscape:measure-start="19.3248,2035.22"
      inkscape:measure-end="19.3248,1949.8"
-     inkscape:zoom="0.87820074"
-     inkscape:cx="618.879"
-     inkscape:cy="485.65206"
+     inkscape:zoom="5.0551142"
+     inkscape:cx="598.60171"
+     inkscape:cy="676.04803"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -785,4 +785,20 @@
        id="polygon600"
        inkscape:connector-curvature="0" />
   </g>
+  <text
+     xml:space="preserve"
+     style="font-size:1.41111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, @wght=100';font-variation-settings:'wght' 100;fill:#00ff00;stroke:#00ff00;stroke-width:0"
+     x="137.54829"
+     y="-221.60887"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       style="font-size:1.41111px;stroke-width:0"
+       x="137.54829"
+       y="-221.60887">Hex grill from dragonballzeke (thingiverese)</tspan><tspan
+       sodipodi:role="line"
+       style="font-size:1.41111px;stroke-width:0"
+       x="137.54829"
+       y="-219.84499"
+       id="tspan2">added by only1thor. </tspan></text>
 </svg>
