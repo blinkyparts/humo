@@ -61,6 +61,22 @@ This version has light, useses USBC to 12V adapter and a much better fan. It has
 | LED stripe         | 10cm     | 12V warm white LED stripe                                   |
 | Wire               | 15cm     | Some flexible wire any colour/size                          |
 
+### Version 2.3
+This version removes the need for the fan grill, as it's integrated in the design.
+(otherwise the same as the version above)
+
+|     Description    | Quantity |                    Description / Example                    |
+|:------------------:|:--------:|:-----------------------------------------------------------:|
+| Laser cutted parts | 1        | 3mm wood                                                    |
+| PC fan 120mm       | 1        | SUNON MEC0251V3-000U-A99 (Reichelt: SUN MEC0251V3-0         |
+| PC fan screws      | 4        | Aliexpress "pc fan screw"                                   |
+| Solderfume Filter  | 1        | Replacement filter (Reichelt: FILTER ZD-153 EF)             |
+| 5V to 12V step up  | 1        | PDC004-PD USBC trigger board                                |
+| Woodscrew          | 2        | M2.2x8mm                                                    |
+| LED stripe         | 10cm     | 12V warm white LED stripe                                   |
+| Wire               | 15cm     | Some flexible wire any colour/size                          |
+
+
 ## Buy Parts online
 You can also buy a kit with all needes parts (always the newest version) at blinkyparts:
 
