@@ -60,6 +60,7 @@ This version has light, useses USBC to 12V adapter and a much better fan. It has
 | Woodscrew          | 2        | M2.2x8mm                                                    |
 | LED stripe         | 10cm     | 12V warm white LED stripe                                   |
 | Wire               | 15cm     | Some flexible wire any colour/size                          |
+| Switch             | 1        | On-Off-Toggle-Switch                                        |
 
 ### Version 2.3
 This version removes the need for the fan grill, as it's integrated in the design.
